@@ -17,7 +17,7 @@ namespace webapiapp.Controllers
             return new ContentResult
             {
                 ContentType = "text/plain",
-                Content = @"SETIResponse: version=5.796",
+                Content = @"SETIResponse: version=5.797",
                 StatusCode = 200
             };
         }
@@ -45,7 +45,7 @@ namespace webapiapp.Controllers
             return new ContentResult
             {
                 ContentType = "text/plain",
-                Content = @"SETIResponse: version=5.796",
+                Content = @"SETIResponse: version=5.797",
                 StatusCode = 200
             };
         }
